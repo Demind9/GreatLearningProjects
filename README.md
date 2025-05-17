@@ -1,1 +1,3 @@
 # GreatLearningProjects
+
+These are the three projects I did for my course "Data Science and Machine Learning: Making Data-Driven Decisions" through MIT IDSS in collaboration with Great Learning.  They are all on mock datasets.  The first one follows a DoorDash-like company, FoodHub, and performs thorough EDA in order to garner business insights from customer order data.  The second one follows an online education company and uses decision trees to try to predict conversion likelihood for potential customers.  The third one explores a few basic recommendation systems for an Amazon-like company based on product reviews.
